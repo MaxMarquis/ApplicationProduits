@@ -1,8 +1,10 @@
 # exerciceformatif2
 
+L'application permet d'afficher la liste des produits et de pouvoir en ajouter.
+
 ## Guide Utilisateur
 
-L'application permet d'ajouter des produits
+
 Voici la liste des fonctionnalités:
 1: Produit Liste
 2: Produit Edit
