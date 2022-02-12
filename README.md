@@ -1,24 +1,21 @@
-# projet
+# exerciceformatif2
 
-## Project setup
-```
-npm install
-```
+## Guide Utilisateur
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+L'application permet d'ajouter des produits
+Voici la liste des fonctionnalités:
+1: Produit Liste
+2: Produit Edit
+3: Contact
 
-### Compiles and minifies for production
-```
-npm run build
-```
+....
+La fonctionalite Produit Liste sert à afficher la listes des produits de façcon dynamique
+La fonctionalite Produit Edit sert à ajouter un produit dans la listes des produits
+La fonctionalite Contact sert à envoyer un formulaire
+....
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Objet vueJS
+
+Dans L'application j'ai utilise les objets Produits et Catégories.
+Ils permettent de stocker la liste des produits ansi que la liste des catégories.
