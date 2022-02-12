@@ -6,9 +6,9 @@ L'application permet d'afficher la liste des produits et de pouvoir en ajouter.
 
 
 Voici la liste des fonctionnalités:
-1: Produit Liste
-2: Produit Edit
-3: Contact
+1. Produit Liste
+2. Produit Edit
+3. Contact
 
 ....
 La fonctionalite Produit Liste sert à afficher la listes des produits de façcon dynamique
