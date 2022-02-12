@@ -10,13 +10,12 @@ Voici la liste des fonctionnalités:
 2. Produit Edit
 3. Contact
 
-....
 La fonctionalite Produit Liste sert à afficher la listes des produits de façcon dynamique
 
 La fonctionalite Produit Edit sert à ajouter un produit dans la listes des produits
 
 La fonctionalite Contact sert à envoyer un formulaire
-....
+
 
 
 ### Objet vueJS
